@@ -28,6 +28,10 @@ p {
   text-align: center;
 }
 
+video {
+
+}
+
 .container-fluid{
   padding: 3% 15% 7%;
   padding-bottom: 0;
@@ -103,6 +107,14 @@ p {
   padding: 0 25% 0 25%;
 }
 
+.press-text {
+  color: #d6e0f0;
+}
+
+.logo{
+  width: 50%;
+}
+
 #features {
   padding: 7% 5%;
   background-color: #d6e0f0;
@@ -115,7 +127,7 @@ p {
 }
 
 #testimonials {
-
+  padding: 100px;
   text-align: center;
   background-color: #8d93ab;
   color: #fff;
