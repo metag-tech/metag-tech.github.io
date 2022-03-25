@@ -31,7 +31,7 @@ body {
   -moz-border-radius: 75%;
   box-shadow: 0 0 0 1px #eee;
   /* background: url("https://images.unsplash.com/reserve/ysPfhVSzSP2m629CW0mw_selfPortrait.jpg?fit=crop&fm=jpg&h=700&q=80&w=1225") center center no-repeat; */
-  background: url("../images/pexels-andrea-piacquadio-3776932.jpg") center center no-repeat;
+  background: url("../images/joseph-gonzalez-iFgRcqHznqg-unsplash.jpg") center center no-repeat;
   background-size: cover;
   margin: auto;
   margin-top: 20px;
@@ -119,4 +119,11 @@ a:hover{
 
 .smaller {
   padding-left: 0.5rem;
+}
+
+.bottomLogo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
